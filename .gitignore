@@ -1,0 +1,15 @@
+# Project exclude paths
+/node_modules/
+build/
+dist/
+coverage/
+*.log
+*.lock
+*.pid
+*.seed
+*.pid.lock
+*.tgz
+.DS_Store
+.env
+.idea
+.production.env
